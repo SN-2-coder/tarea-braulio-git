@@ -4,7 +4,7 @@ def add(x, y):
 def substract(x, y):
     return x - y
 
-print("select operation:")
+print("Hello!Please select the operation you wish to make: ")
 print("1. Addition")
 print("2. Substraction")
 
